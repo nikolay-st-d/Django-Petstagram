@@ -1,1 +1,1 @@
-SoftUni Django course project
+SoftUni Django course project - work in progress
